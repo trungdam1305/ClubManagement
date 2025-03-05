@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
+        <group name="PRJ301-Project"/>
+=======
+        <group name="PRJ301-Project">
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/src/java/controller/ResetPasswordServlet.java</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/verify-email.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/forgot-password.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/reset-password.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/register-success.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/verify-otp.jsp</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/src/java/controller/VerifyOtpServlet.java</file>
+            <file>file:/C:/Users/admin/Desktop/Nam-PRJ/ClubManagement/web/view/login.jsp</file>
+        </group>
+>>>>>>> 441cd61 (trungdamCommit)
+    </open-files>
+</project-private>
